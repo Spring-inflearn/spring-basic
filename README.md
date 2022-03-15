@@ -9,3 +9,8 @@
 ## 8. 빈 생명주기 콜백   
 ## 9. 빈 스코프   
 ## 10. 다음으로     
+
+
+
+### 정리
+https://velog.io/@shkim1199/%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EB%B3%B8%ED%8E%B8-%EC%A0%95%EB%A6%AC
